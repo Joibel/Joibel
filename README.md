@@ -7,7 +7,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joibel&show_icons=true)](https://github.com/Joibel)
 
-#### My verified badges
+#### Credly badges
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/88c051f3-818d-4ecc-8dc6-ba542d3cdddc" title="Program Committee Member: KubeCon + CloudNativeCon North America 2025"><img src="https://images.credly.com/size/80x80/images/d270e5c8-a35f-4956-90a1-03af246186f6/blob" alt="Program Committee Member: KubeCon + CloudNativeCon North America 2025" width="80" height="80"></a>
