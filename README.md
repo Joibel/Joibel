@@ -5,7 +5,17 @@
 - I’m employed by [@pipekit](https://pipekit.io) as a Staff Software Engineer.
 - I'm a member of [argoproj](https://argoproj.github.io/), and in particular a maintainer of [argo-workflows](https://github.com/argoproj/argo-workflows) along with several projects in [crumbhole](https://github.com/crumbhole)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joibel&show_icons=true)](https://github.com/Joibel)
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.simpleicons.org/argo"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804096-7842a680-ab1c-11eb-9831-001929b5434c.png"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/kubernetes"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804184-146cad80-ab1d-11eb-8f06-8d57d62b5d35.png"></code>
+
+**Stats:**
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joibel&show_icons=true&theme=vue-dark)](https://github.com/Joibel)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joibel&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### Credly badges
 
