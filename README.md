@@ -14,9 +14,10 @@
 
 **Stats:**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joibel&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joibel&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joibel&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joibel&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joibel&theme=github_dark&utcOffset=0) 
 
 #### Credly badges
 
