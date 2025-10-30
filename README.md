@@ -14,8 +14,9 @@
 
 **Stats:**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joibel&show_icons=true&theme=vue-dark)](https://github.com/Joibel)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joibel&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joibel&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joibel&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joibel&theme=github_dark) 
 
 #### Credly badges
 
