@@ -22,6 +22,7 @@
 #### Credly badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/a2474846-d96b-438f-a0a6-5cd712df822b" title="Track Chair: KubeCon + CloudNativeCon Europe 2026"><img src="https://images.credly.com/size/80x80/images/7476e1ba-f7e7-448d-85e0-e58610326bc7/blob" alt="Track Chair: KubeCon + CloudNativeCon Europe 2026" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/88c051f3-818d-4ecc-8dc6-ba542d3cdddc" title="Program Committee Member: KubeCon + CloudNativeCon North America 2025"><img src="https://images.credly.com/size/80x80/images/d270e5c8-a35f-4956-90a1-03af246186f6/blob" alt="Program Committee Member: KubeCon + CloudNativeCon North America 2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/413a8fd5-678e-483d-b35a-7cc65a7d6664" title="Program Committee Member: KubeCon + CloudNativeCon Europe 2025"><img src="https://images.credly.com/size/80x80/images/5be4c74d-322f-476b-9fc9-72fda9c31ff2/blob" alt="Program Committee Member: KubeCon + CloudNativeCon Europe 2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c15efbf2-d0db-444e-ab97-04358d5da4d3" title="ArgoCon NA 2024 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob" alt="ArgoCon NA 2024 Speaker Badge" width="80" height="80"></a>
