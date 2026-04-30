@@ -24,15 +24,15 @@
 #### Credly badges
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/f57a9b17-58f6-408f-9172-801b0355adb9" title="Speaker: KubeCon + CloudNativeCon Europe 2026"><img src="https://images.credly.com/size/80x80/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/a8509dc6-1f32-4fb7-a671-3be2c2f9f267" title="ArgoCon Europe 2026 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/fd2071ff-7dfc-494d-a64a-9fa4cbf31e0b/blob" alt="ArgoCon Europe 2026 Speaker Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/a2474846-d96b-438f-a0a6-5cd712df822b" title="Track Chair: KubeCon + CloudNativeCon Europe 2026"><img src="https://images.credly.com/size/80x80/images/7476e1ba-f7e7-448d-85e0-e58610326bc7/blob" alt="Track Chair: KubeCon + CloudNativeCon Europe 2026" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/88c051f3-818d-4ecc-8dc6-ba542d3cdddc" title="Program Committee Member: KubeCon + CloudNativeCon North America 2025"><img src="https://images.credly.com/size/80x80/images/d270e5c8-a35f-4956-90a1-03af246186f6/blob" alt="Program Committee Member: KubeCon + CloudNativeCon North America 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/413a8fd5-678e-483d-b35a-7cc65a7d6664" title="Program Committee Member: KubeCon + CloudNativeCon Europe 2025"><img src="https://images.credly.com/size/80x80/images/5be4c74d-322f-476b-9fc9-72fda9c31ff2/blob" alt="Program Committee Member: KubeCon + CloudNativeCon Europe 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c15efbf2-d0db-444e-ab97-04358d5da4d3" title="ArgoCon NA 2024 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob" alt="ArgoCon NA 2024 Speaker Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/bb9c69a0-4de4-4e07-b6bc-ff133ddb967a" title="LFC101: Inclusive Speaker Orientation"><img src="https://images.credly.com/size/80x80/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" alt="LFC101: Inclusive Speaker Orientation" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/253cce68-2fbf-4337-8597-dc37bfd4efe6" title="Program Committee Member: KubeCon + CloudNativeCon North America 2024"><img src="https://images.credly.com/size/80x80/images/89b29541-a770-424a-ae98-5aee7eb0cb5c/image.png" alt="Program Committee Member: KubeCon + CloudNativeCon North America 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/4661efe5-ee2e-4099-9f84-143f8b3dc8f3" title="LFC101: Inclusive Speaker Orientation"><img src="https://images.credly.com/size/80x80/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" alt="LFC101: Inclusive Speaker Orientation" width="80" height="80"></a>
+[![Speaker: KubeCon + CloudNativeCon Europe 2026](https://images.credly.com/size/80x80/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob)](https://www.credly.com/badges/f57a9b17-58f6-408f-9172-801b0355adb9)
+[![ArgoCon Europe 2026 Speaker Badge](https://images.credly.com/size/80x80/images/fd2071ff-7dfc-494d-a64a-9fa4cbf31e0b/blob)](https://www.credly.com/badges/a8509dc6-1f32-4fb7-a671-3be2c2f9f267)
+[![Track Chair: KubeCon + CloudNativeCon Europe 2026](https://images.credly.com/size/80x80/images/7476e1ba-f7e7-448d-85e0-e58610326bc7/blob)](https://www.credly.com/badges/a2474846-d96b-438f-a0a6-5cd712df822b)
+[![Program Committee Member: KubeCon + CloudNativeCon North America 2025](https://images.credly.com/size/80x80/images/d270e5c8-a35f-4956-90a1-03af246186f6/blob)](https://www.credly.com/badges/88c051f3-818d-4ecc-8dc6-ba542d3cdddc)
+[![Program Committee Member: KubeCon + CloudNativeCon Europe 2025](https://images.credly.com/size/80x80/images/5be4c74d-322f-476b-9fc9-72fda9c31ff2/blob)](https://www.credly.com/badges/413a8fd5-678e-483d-b35a-7cc65a7d6664)
+[![ArgoCon NA 2024 Speaker Badge](https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob)](https://www.credly.com/badges/c15efbf2-d0db-444e-ab97-04358d5da4d3)
+[![LFC101: Inclusive Speaker Orientation](https://images.credly.com/size/80x80/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob)](https://www.credly.com/badges/bb9c69a0-4de4-4e07-b6bc-ff133ddb967a)
+[![Program Committee Member: KubeCon + CloudNativeCon North America 2024](https://images.credly.com/size/80x80/images/89b29541-a770-424a-ae98-5aee7eb0cb5c/image.png)](https://www.credly.com/badges/253cce68-2fbf-4337-8597-dc37bfd4efe6)
+[![LFC101: Inclusive Speaker Orientation](https://images.credly.com/size/80x80/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob)](https://www.credly.com/badges/4661efe5-ee2e-4099-9f84-143f8b3dc8f3)
 <!--END_SECTION:badges-->
 
 ----------------
