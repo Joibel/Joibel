@@ -4,10 +4,10 @@
 
 - I’m employed by [@pipekit](https://pipekit.io) as a Staff Software Engineer.
 - I'm a member of [argoproj](https://argoproj.github.io/), and in particular a lead maintainer of [argo-workflows](https://github.com/argoproj/argo-workflows)
-- I'm also a member of [open-telemetry](https://opentelemetry.io/)
+- I'm also a member of [open-telemetry](https://opentelemetry.io/) and [nixos](https://nixos.org)
 - Some of my side projects live in in [crumbhole](https://github.com/crumbhole)
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://cdn.simpleicons.org/argo"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/4662360/116804096-7842a680-ab1c-11eb-9831-001929b5434c.png"></code>
@@ -16,10 +16,10 @@
 
 **Stats:**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joibel&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joibel&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joibel&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joibel&theme=github_dark&utcOffset=0) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joibel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joibel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joibel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joibel&theme=github_dark&utcOffset=0)
 
 #### Credly badges
 
@@ -38,4 +38,3 @@
 ----------------
 [![GitHub followers](https://img.shields.io/github/followers/Joibel?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/Joibel?tab=followers)
 ![](https://komarev.com/ghpvc/?username=Joibel&style=flat-square&color=595959)
-
