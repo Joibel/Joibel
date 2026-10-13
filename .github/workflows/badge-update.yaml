@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: Joibel/badge-readme@fix-badge-size  # TODO: back to pemtajo/badge-readme once upstream merges the sizing fix
         with:
           CREDLY_USER: alan-alan-clucas-org
