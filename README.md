@@ -21,7 +21,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joibel&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joibel&theme=github_dark&utcOffset=0)
 
-#### Credly badges
+#### [Credly badges](https://www.credly.com/users/alan-clucas-org/badges/credly)
 
 <!--START_SECTION:badges-->
 [<img src="https://images.credly.com/size/80x80/images/9f8d6a1f-b221-42d1-862f-a3300e73ff19/blob" alt="Speaker: Observability Summit Europe 2026" width="80" height="80">](https://www.credly.com/badges/31be12cd-dd56-47c7-a45d-052f60b1b998)
@@ -35,6 +35,8 @@
 [<img src="https://images.credly.com/size/80x80/images/89b29541-a770-424a-ae98-5aee7eb0cb5c/image.png" alt="Program Committee Member: KubeCon + CloudNativeCon North America 2024" width="80" height="80">](https://www.credly.com/badges/253cce68-2fbf-4337-8597-dc37bfd4efe6)
 [<img src="https://images.credly.com/size/80x80/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" alt="LFC101: Inclusive Speaker Orientation" width="80" height="80">](https://www.credly.com/badges/4661efe5-ee2e-4099-9f84-143f8b3dc8f3)
 <!--END_SECTION:badges-->
+
+And my [speaker](https://sessionize.com/alanclucas/) profile with some of my talks
 
 ----------------
 [![GitHub followers](https://img.shields.io/github/followers/Joibel?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/Joibel?tab=followers)
