@@ -24,6 +24,7 @@
 #### Credly badges
 
 <!--START_SECTION:badges-->
+[<img src="https://images.credly.com/size/80x80/images/9f8d6a1f-b221-42d1-862f-a3300e73ff19/blob" alt="Speaker: Observability Summit Europe 2026" width="80" height="80">](https://www.credly.com/badges/31be12cd-dd56-47c7-a45d-052f60b1b998)
 [<img src="https://images.credly.com/size/80x80/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" width="80" height="80">](https://www.credly.com/badges/f57a9b17-58f6-408f-9172-801b0355adb9)
 [<img src="https://images.credly.com/size/80x80/images/fd2071ff-7dfc-494d-a64a-9fa4cbf31e0b/blob" alt="ArgoCon Europe 2026 Speaker Badge" width="80" height="80">](https://www.credly.com/badges/a8509dc6-1f32-4fb7-a671-3be2c2f9f267)
 [<img src="https://images.credly.com/size/80x80/images/7476e1ba-f7e7-448d-85e0-e58610326bc7/blob" alt="Track Chair: KubeCon + CloudNativeCon Europe 2026" width="80" height="80">](https://www.credly.com/badges/a2474846-d96b-438f-a0a6-5cd712df822b)
