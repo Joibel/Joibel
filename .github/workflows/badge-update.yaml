@@ -15,4 +15,4 @@ jobs:
       - name: Badges - Readme
         uses: Joibel/badge-readme@fix-badge-size  # TODO: back to pemtajo/badge-readme once upstream merges the sizing fix
         with:
-          CREDLY_USER: alan-alan-clucas-org
+          CREDLY_USER: alan-clucas-org
